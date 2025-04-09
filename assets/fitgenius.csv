@@ -1,0 +1,77 @@
+﻿exercise,body part,goal,reps(each side),sets,duration,image,music,level,equipment
+"30 Seconds of Jumping Jacks, 30 Seconds of Burpees, 30 Seconds of High Knees, Repeat",HIIT circuit,muscle gain,,,20 min,assets/images/hiit.jpg,assets/audio/workout-172774.mp3,all,body
+Barbell Rows,upper-back,strength,"8-10, 10-12, 12-14","2-3, 3-4, 4-5",,assets/images/barbell rows.png,assets/audio/workout-172774.mp3,all,barbell
+Bench Press,upper-body,"muscle gain, strength","8-10, 10-12, 12-15","2-3, 3-4, 4-5",,assets/images/bench press.jpg,assets/audio/workout-172774.mp3,all,barbell
+Bent Over Rows,upper-body,weight loss,12-Aug,3,,assets/images/bent-over-row.jpg,assets/audio/workout-172774.mp3,Intermediate ,barbell
+Bicep Curls,"upper arm, lower arm","strength, muscle gain","8-10 , 15-20","3,4",,assets/images/bicep-curl.jpg,assets/audio/workout-172774.mp3,"Beginner, Expert",dumbbells
+Bicycle Crunches,abs,muscle gain,20,3,,assets/images/bicycle crunches .png,assets/audio/workout-172774.mp3,Beginner,body
+Bodyweight Squats,lower-body,all,12-Mar,4-Mar,,assets/images/bodyweight squat.jpg,assets/audio/workout-172774.mp3,"Intermediate , Expert",body
+Box Jump,lower-body,muscle gain,6,3,,assets/images/box-jump.jpg,assets/audio/workout-172774.mp3,Beginner,box
+Bridge Pose,lower-body,flexibility ,,,1-3 min,assets/images/bridge.jpg,assets/audio/workout-172774.mp3,Beginner,body
+Broad Jump,lower-body,weight loss,5-Mar,10-Mar,,assets/images/board-jump.jpg,assets/audio/workout-172774.mp3,Beginner,body
+Burpee,full-body,"weight loss, strength","5,10,20","3,3,5",,assets/images/burpee.png,assets/audio/workout-172774.mp3,all,body
+Calf Raises,lower leg,strength,"20,40",3,,assets/images/calf-raises.png,assets/audio/workout-172774.mp3,all,body/dumbbells
+Cat & Cow,lower back,"flexibility , strength","5-10, 10-15, 15-20",,,assets/images/cat-and-cow.jpg,assets/audio/workout-172774.mp3,all,body
+Chest Flyes ,chest,muscle gain,12-Aug,3,,assets/images/chest-fly.jpeg,assets/audio/workout-172774.mp3,Intermediate,dumbbells
+Cool-Down: 5-10 Minutes of Stretching,all,cooldown,,,5-10 min,assets/images/cool-down.png,assets/audio/workout-172774.mp3,all,body
+Crescent Lunge,full-body,flexibility ,,,30s - 1min,assets/images/crescent-lunge-pose.jpg,assets/audio/workout-172774.mp3,Beginner,body
+Cycling,full-body,all,,,20-30 min,assets/images/cycling.jpg,assets/audio/workout-172774.mp3,all,bicycle
+Deadlifts,lower back,strength,12-Aug,3,,assets/images/deadlift.png,assets/audio/workout-172774.mp3,Beginner,barbell
+Dumbbell Curls,"abs,core",strength,,,,assets/images/dumbbell-wood-chop.png,assets/audio/workout-172774.mp3,Beginner,dumbbells
+Dumbbell Lunges,"upper arm, lower arm","strength,muscle gain","8-10 , 15-20",3,,assets/images/bicep-curl.jpg,assets/audio/workout-172774.mp3,"Beginner, Expert",dumbbells
+Dumbbell Rows,leg,muscle gain,12-Aug,3,,assets/images/dumbbell-lunges.jpg,assets/audio/workout-172774.mp3,"Beginner, Intermediate","body, dumbbells"
+Dumbbell Wood Chop,upper-body,muscle gain,,,,assets/images/dumbbell-wood-chop.png,assets/audio/workout-172774.mp3,,
+Forward Lunge,lower-body,strength,,,,assets/images/dumbbell-wood-chop.png,assets/audio/workout-172774.mp3,Intermediate,body
+Forward Leg Swings,cardio,cadio,,,,assets/images/half_moon_pose.jpeg,assets/audio/workout-172774.mp3,,
+Full Moon,abs,strength,,,,assets/images/half_moon_pose.jpeg,assets/audio/workout-172774.mp3,Beginner,body
+Glute Bridge,strength,strength,,,,assets/images/half_moon_pose.jpeg,assets/audio/workout-172774.mp3,,
+High Knees,full-body,cadio,,,,assets/images/half_moon_pose.jpeg,assets/audio/workout-172774.mp3,Intermediate,body
+Hip Extensions,glutes,strength,,,,assets/images/half_moon_pose.jpeg,assets/audio/workout-172774.mp3,Beginner,bands
+Hip Rotations,warm-up,cardio,,,,assets/images/half_moon_pose.jpeg,assets/audio/workout-172774.mp3,,
+Hollow-Body Hold,strength,strength,,,,assets/images/half_moon_pose.jpeg,assets/audio/workout-172774.mp3,,
+Jogging,cardio,cardio,,,10-15 min,assets/images/half_moon_pose.jpeg,assets/audio/workout-172774.mp3,,
+Jump Lunges,plyometric ,weight loss,5,,,assets/images/jump_lungs.jpeg,assets/audio/workout-172774.mp3,,
+Jump Rope,warm-up,cardio,,,,assets/images/half_moon_pose.jpeg,assets/audio/workout-172774.mp3,,
+Jump Squats,plyometric ,weight loss,10,,,assets/images/jump_squat.jpeg,assets/audio/workout-172774.mp3,,
+Jumping Jacks,plyometric ,weight loss,10,,,assets/images/jumping_jacks.jpeg,assets/audio/workout-172774.mp3,,
+Jumping Jacks,cardio,endurance,,,2-3 min,assets/images/half_moon_pose.jpeg,assets/audio/workout-172774.mp3,,
+Lateral Hop,plyometric ,weight loss,10,,,assets/images/half_moon_pose.jpeg,assets/audio/workout-172774.mp3,,
+Leg Extension,strength,strength,,,,assets/images/half_moon_pose.jpeg,assets/audio/workout-172774.mp3,,
+Leg Raises,strength,weight loss & muscle gain,12-Aug,3,,assets/images/half_moon_pose.jpeg,assets/audio/workout-172774.mp3,,
+Lunges,warm-up,all,,,,assets/images/half_moon_pose.jpeg,assets/audio/workout-172774.mp3,,
+Messier Squat ,plyometric ,weight loss,10,,,assets/images/half_moon_pose.jpeg,assets/audio/workout-172774.mp3,,
+Mini-Squats,strength,strength,5,,,assets/images/half_moon_pose.jpeg,assets/audio/workout-172774.mp3,,
+Mountain Climbers,full body,strength,15-Oct,3,,assets/images/half_moon_pose.jpeg,assets/audio/workout-172774.mp3,,
+Neck Stretch,stretch,flexibility ,,,,assets/images/half_moon_pose.jpeg,assets/audio/workout-172774.mp3,,
+Overhead Press ,strength,muscle gain,12-Aug,3,,assets/images/half_moon_pose.jpeg,assets/audio/workout-172774.mp3,,
+Plank,strength,muscle gain,,,30s - 1 min,assets/images/plank.jpg,assets/audio/workout-172774.mp3,,
+Plank Hop,plyometric ,weight loss,10,,,assets/images/half_moon_pose.jpeg,assets/audio/workout-172774.mp3,,
+Planks Jacks,plyometric ,weight loss,12-Aug,,,assets/images/half_moon_pose.jpeg,assets/audio/workout-172774.mp3,,
+Plyo Pushup,plyometric ,weight loss,10,,,assets/images/half_moon_pose.jpeg,assets/audio/workout-172774.mp3,,
+Pull Ups,"middle, lower back",strength,,,,assets/images/half_moon_pose.jpeg,assets/audio/workout-172774.mp3,Begginer,body
+Push-Ups,chest,strength,12-Aug,3,,assets/images/half_moon_pose.jpeg,assets/audio/workout-172774.mp3,Begginer,body
+Pyramid Pose,full-body,flexibility ,,,,assets/images/pyramid.jpeg,assets/audio/workout-172774.mp3,,
+Reclined Hand to Big Toe Pose,stretch,flexibility ,,,,assets/images/half_moon_pose.jpeg,assets/audio/workout-172774.mp3,,
+Reverse Lunge,strength,strength,,,,assets/images/half_moon_pose.jpeg,assets/audio/workout-172774.mp3,,
+Reverse Lunge With Knee Drive,plyometric ,weight loss,5,,,assets/images/half_moon_pose.jpeg,assets/audio/workout-172774.mp3,,
+Running ,full-body,strength,,,20-30 min,assets/images/half_moon_pose.jpeg,assets/audio/workout-172774.mp3,,
+Side Leg Swings,lower-body,strength,,,,assets/images/half_moon_pose.jpeg,assets/audio/workout-172774.mp3,,
+Side to Side Push Ups,chest,strength,,,,assets/images/half_moon_pose.jpeg,assets/audio/workout-172774.mp3,Beginner,body
+Side to Side Shuffle,plyometric ,weight loss,10,,,assets/images/half_moon_pose.jpeg,assets/audio/workout-172774.mp3,,
+Sideways Leg Lift,strength,strength,,,,assets/images/half_moon_pose.jpeg,assets/audio/workout-172774.mp3,,
+Sit-To-Stand,strength,strength,5,,,assets/images/half_moon_pose.jpeg,assets/audio/workout-172774.mp3,,
+Skaters,lower-body,cardio,10,,,assets/images/half_moon_pose.jpeg,assets/audio/workout-172774.mp3,Beginner,body
+Squats,strength,endurance,12-Aug,3,,assets/images/half_moon_pose.jpeg,assets/audio/workout-172774.mp3,Beginner,barbell
+Supine Twist ,stretch,flexibility ,,,,assets/images/half_moon_pose.jpeg,assets/audio/workout-172774.mp3,,
+Triangle Pose,stretch,flexibility ,,,,assets/images/triangle.jpeg,assets/audio/workout-172774.mp3,,
+Tricep Dips,triceps,strength,12-Aug,3,,assets/images/half_moon_pose.jpeg,assets/audio/workout-172774.mp3,Intermediate,body
+Vertical Jump,lower-body,strength,,,,assets/images/half_moon_pose.jpeg,assets/audio/workout-172774.mp3,Intermediate,body
+Walking Lunge,lower-body,strength,,,,assets/images/half_moon_pose.jpeg,assets/audio/workout-172774.mp3,Intermediate,body
+Walk Sqaut,lower-body,strength,13-Aug,3,,assets/images/walking lunges.jpeg,assets/audio/workout-172774.mp3,Intermediate,body
+Walking Lunges,strength,strength,12-Aug,3,,assets/images/half_moon_pose.jpeg,assets/audio/workout-172774.mp3,Intermediate,body
+Wall Press-Up,shoulders,strength,,,,assets/images/half_moon_pose.jpeg,assets/audio/workout-172774.mp3,Intermediate,body
+Wall Walk,shoulders,strength,,,,assets/images/warm-up.jpg,assets/audio/workout-172774.mp3,Intermediate,body
+Warrior Push-Up,chest,strength,,,,assets/images/warm-up.jpg,assets/audio/workout-172774.mp3,Intermediate,body
+Warm-Up: 5-10 Minutes of Light Cardio,all,warmup,,,5-10 min,assets/images/warm-up.jpg,assets/audio/workout-172774.mp3,all,body
+Wide-Leg Forward Fold,strength,muscle gain,12-Aug,3,,assets/images/zotman-curl.jpg,assets/audio/workout-172774.mp3,,
+Zottman Curl,lower-body,strength,,,,assets/images/zotman-curl.jpg,assets/audio/workout-172774.mp3,Internediate,body
